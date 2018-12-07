@@ -12,3 +12,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+ul {
+  list-style: none;
+}
+
+p {
+  margin: 4px;
+  padding: 0;
+}
+
+li.post__container {
+  border: 1px solid blue;
+  margin: 8px;
+  text-align: left;
+  padding: 8px;
+}
